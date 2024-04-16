@@ -14,6 +14,9 @@ It categorizes images into the following classes:
 - **Text-based**: Images predominantly containing text
 - **Generic**: All other images that don't fall into the above categories
 
+## The Working:
+![Example Image](5.PNG)
+
 ### Implementation Details
 The classifier has been developed with fastai, incorporating standard procedures such as data processing, preprocessing, and hyperparameter tuning. The approach and methods are primarily based on the textbook "Deep Learning for Coders with fastai & PyTorch."
 
