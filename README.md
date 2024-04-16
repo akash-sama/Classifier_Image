@@ -1,7 +1,9 @@
 # Image Classification
 
 ## Overview
-This learning project is an image classifier built with the fastai library. It categorizes images into the following classes:
+This learning project is an image classifier built with the fastai library. 
+A local server is made using flask and then created a simple wepage to run the model (used javascript and HTML/CSS)
+It categorizes images into the following classes:
 
 - **Art**: Drawings, anime, and paintings
 - **Meme**: Funny cartoons or memes
